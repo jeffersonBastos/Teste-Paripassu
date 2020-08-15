@@ -1,0 +1,4 @@
+Não desenvolvida a parte cliente no main
+Não foi tratado alguns erros de input
+Tentei seguir o mesmo padrão de implementação da classe ClienteDAOImpl para as demais 
+função editar só faz a conexão pra monstrar que funciona.
